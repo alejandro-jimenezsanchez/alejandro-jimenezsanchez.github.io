@@ -1,0 +1,50 @@
+title: Alejandro Jimenez, PhD
+subtitle: Principal Data Scientist — Immunotherapy Platform, James P. Allison Institute (MD Anderson)
+description: Viewing metastasis as a system. Computational immunotherapy, single-cell + spatial + genomics.
+url: https://alejandro-jimenezsanchez.github.io
+
+
+# Use an official Pages theme via remote_theme
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
+
+
+# SEO metadata
+seo:
+type: Person
+name: Alejandro Jimenez-Sanchez
+same_as:
+- https://www.linkedin.com/in/
+- https://twitter.com/
+- https://github.com/alejandro-jimenezsanchez
+
+
+# Navigation (appears in header)
+nav:
+- name: Research
+link: /#research-vision
+- name: Team
+link: /#our-team
+- name: Projects
+link: /#recent-work
+- name: Publications
+link: /#publications
+- name: Connect
+link: /#connect
+
+
+# Optional: custom analytics (paste your ID)
+# google_analytics: G-XXXXXXXXXX
+
+
+# Build tweaks
+markdown: kramdown
+kramdown:
+input: GFM
+
+
+# Social preview image (add the file in /assets/ once ready)
+# logo: /assets/social-card.png
