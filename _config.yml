@@ -24,16 +24,16 @@ same_as:
 
 # Navigation (appears in header)
 nav:
-- name: Research
-link: /#research-vision
-- name: Team
-link: /#our-team
-- name: Projects
-link: /#recent-work
-- name: Publications
-link: /#publications
-- name: Connect
-link: /#connect
+  - name: Research
+    link: /#research-vision
+  - name: Team
+    link: /#our-team
+  - name: Projects
+    link: /#recent-work
+  - name: Publications
+    link: /#publications
+  - name: Connect
+    link: /#connect
 
 
 # Optional: custom analytics (paste your ID)
